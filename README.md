@@ -1,12 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/debdattasarkar/SpaceX-Data-Science-Project.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/debdattasarkar/SpaceX-Data-Science-Project?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/debdattasarkar/SpaceX-Data-Science-Project?style=flat)
-![Stars Badge](https://img.shields.io/github/stars/debdattasarkar/SpaceX-Data-Science-Project?style=flat)
-![Forks Badge](https://img.shields.io/github/forks/debdattasarkar/SpaceX-Data-Science-Project?style=flat)
-![Pull Requests Badge](https://img.shields.io/github/issues-pr/debdattasarkar/SpaceX-Data-Science-Project?style=flat)
-[![Total Downloads](https://img.shields.io/github/downloads/debdattasarkar/SpaceX-Data-Science-Project/total.svg)](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/releases/)
-
-
 # Amazon Sales Data Analysis Dashboard using Power BI
 ## Amazon Sales Dashboard : 
 ![image](https://github.com/ARJUN151503/PowerBI-projects/blob/main/using%20Bi.png)
