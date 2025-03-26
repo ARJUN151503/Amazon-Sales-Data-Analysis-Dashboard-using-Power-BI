@@ -1,6 +1,6 @@
 # Amazon Sales Data Analysis Dashboard using Power BI
 ## Amazon Sales Dashboard : 
-![image](https://github.com/ARJUN151503/PowerBI-projects/blob/main/using%20Bi.png)
+![Amazon sales Dasboard_page-0001](https://github.com/user-attachments/assets/688a0109-8ad3-4bb9-b811-70eda0ae9dd7)
 
 Welcome to the Amazon Sales Data Analysis Dashboard repository! This project aims to provide insights into our Amazon sales performance, customer behavior, and growth trends using Power BI.
 
